@@ -3,5 +3,19 @@
         "psr-4": {
             "App\\": "app/"
         }
+    },
+    "authors": [
+        {
+            "name": "Timo Anttila",
+            "email": "moro@tuspe.com",
+            "homepage": "https://timoanttila.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@tuspe.com",
+        "source": "https://github.com/TuspeDesign/Svelte-Booking-Calendar",
+        "issues": "https://github.com/TuspeDesign/Svelte-Booking-Calendar/issues",
+        "irc": "irc://irc.freenode.org/composer"
     }
 }
