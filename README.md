@@ -19,6 +19,13 @@ The frontend is made in [Svelte](https://svelte.dev/).
 
 The backend written in PHP uses an [SQLite](https://www.sqlite.org/index.html) database to store data.
 
+First, make sure the server has PHP and the PHP plugin `sqlite3` installed.  
+You can install the plugin with the command below in Debian and Ubuntu:
+
+```Shell
+sudo apt install php7.4-sqlite3
+```
+
 ### Directory paths
 
 - **app**: classes for namespace.

@@ -7,7 +7,7 @@ namespace App;
 class SQLiteConnection {
     /**
      * PDO instance
-     * @var type 
+     * @var type
      */
     private $pdo;
 
