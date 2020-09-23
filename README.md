@@ -18,7 +18,7 @@ A backend written in PHP uses an SQLite database to store data.
 
 ### Important commands
 
-**./composer.phar update**
+**./composer.phar update**  
 Generating vendor folders, resolving all dependencies and writing the exact versions into composer.lock.
 
 **./composer.phar dump-autoload -o**  
