@@ -1,7 +1,7 @@
 {
   "name": "svelte-booking-calendar",
   "version": "0.0.1",
-  "description": "Simple booking calendar built in Svelte.",
+  "description": "A simple example of how you can select a day from the calendar and retrieve the free times of that day from an external source.",
   "homepage": "https://github.com/TuspeDesign/Svelte-Booking-Calendar",
   "bugs": "https://github.com/TuspeDesign/Svelte-Booking-Calendar/issues",
   "license": "GNU GPL v3.0",
