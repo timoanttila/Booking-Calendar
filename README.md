@@ -12,8 +12,8 @@ The frontend is made in [Svelte](https://svelte.dev/).
 
 ### Directory paths
 
-- src: all the Svelte files and components.
-- public: JavaScript builds and static files.
+- **src**: all the Svelte files and components.
+- **public**: JavaScript builds and static files.
 
 ## Backend
 
@@ -21,16 +21,16 @@ The backend written in PHP uses an [SQLite](https://www.sqlite.org/index.html) d
 
 ### Directory paths
 
-- app: classes for namespace.
-- db: data stored in SQLite.
-- web: public files.
+- **app**: classes for namespace.
+- **db**: data stored in SQLite.
+- **web**: public files.
 
 ### Important commands
 
 [Composer](https://getcomposer.org/) is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 
-**./composer.phar update**
+**./composer.phar update**  
 Generating vendor folders, resolving all dependencies and writing the exact versions into composer.lock.
 
-**./composer.phar dump-autoload -o**
+**./composer.phar dump-autoload -o**  
 Generating optimized autoload files.
