@@ -14,8 +14,7 @@
     ],
     "support": {
         "email": "support@tuspe.com",
-        "source": "https://github.com/TuspeDesign/Svelte-Booking-Calendar",
-        "issues": "https://github.com/TuspeDesign/Svelte-Booking-Calendar/issues",
-        "irc": "irc://irc.freenode.org/composer"
+        "source": "https://github.com/TuspeDesign/Booking-Calendar",
+        "issues": "https://github.com/TuspeDesign/Booking-Calendar/issues"
     }
 }
